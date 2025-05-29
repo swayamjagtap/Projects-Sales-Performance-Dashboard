@@ -14,7 +14,7 @@ The dashboard is powered by a transactional dataset containing sales records, in
 * **Customer Name:** The name of the customer.
 
 A sample of the raw data used can be seen below:
-![Raw Data Sample](Screenshot 2025-05-29 154254.png)
+![Raw Data Sample](https://github.com/swayamjagtap/Projects-Sales-Performance-Dashboard/blob/main/Screenshot%202025-05-29%20154254.png)
 
 ## Dashboard Features & Visualizations
 
@@ -32,7 +32,7 @@ The dashboard is designed to provide clear and concise insights through various 
 
 ## Dashboard Screenshot
 Below is a screenshot of the dashboard in action:
-![Dashboard Overview](Screenshot 2025-05-29 151635.png)
+![Dashboard Overview](https://github.com/swayamjagtap/Projects-Sales-Performance-Dashboard/blob/main/Screenshot%202025-05-29%20151635.png)
 
 ## How to Use
 1.  **Download:** Clone this repository or download the `YourExcelDashboardFile.xlsx` file. (Replace `YourExcelDashboardFile.xlsx` with the actual name of your Excel file, e.g., `Sales_Dashboard.xlsx`)
