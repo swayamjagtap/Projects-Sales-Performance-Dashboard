@@ -14,7 +14,7 @@ The dashboard is powered by a transactional dataset containing sales records, in
 * **Customer Name:** The name of the customer.
 
 A sample of the raw data used can be seen below:
-![Raw Data Sample](Screenshot 2025-05-29 153331.png)
+![Raw Data Sample](Screenshot 2025-05-29 154254.png)
 
 ## Dashboard Features & Visualizations
 
